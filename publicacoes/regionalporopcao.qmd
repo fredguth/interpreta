@@ -1,0 +1,16 @@
+---
+title: Regional por opção, Regional como prisão
+author: Dimitrov, Eduardo
+subtitle: trajetórias artísticas no modernismo pernambucano
+image: /images/eduardo_dimitrov.jpg
+category: livro
+abstract: |
+    The artists from Pernambuco, who have started their careers at the first part of the 20th century, have been classified frequently as regionalists by the critics and their partners. At times used explicitly and consciously, the regionalism was an important resource in order to produce an original piece of art. At the same time, it creates obstacles so that the artist was nationally recognized by distinctive classifications of primitivist, regionalist, folklorist. By observing the trajectory of the artists that, in their majority, have opted to constitute their careers in Recife Murillo La Greca, Manoel Bandeira, Lula Cardoso Ayres, Cícero Dias, Vicente do Rego Monteiro, Francisco Brennand, Abelardo da Hora, Ladjane Bandeira, Wellington Virgolino, José Cláudio da Silva, Gilvan Samico, among others , it was possible to reconstruct the scenario of the (plastic) arts from Pernambuco, identify the main social conditioning of the artistic production and realize how each of these artists have managed, by producing their work, to enable their careers. Different material, from visual pieces, interviews, testimonies, news articles from the period, up to critical comments, memories and exposition catalogues, were mobilized in order to recover each of the trajectories that, taken as a whole, allow glimpsing the creative conditions and possibilities for these artists, laid in the periphery of the Brazilian cultural system.
+citation:
+    title: "Regional como opção, regional como prisão: trajetórias artísticas no modernismo pernambucano"
+    type: book
+    author: Dimitrov, Eduardo
+    doi: 10.11606/T.8.2014.tde-08052014-104648
+    url: https://www.researchgate.net/publication/344731974_Regional_como_opcao_regional_como_prisao_trajetorias_artisticas_no_modernismo_pernambucano
+---
+

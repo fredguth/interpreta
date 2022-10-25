@@ -1,0 +1,54 @@
+---
+title: Eduardo Dimitrov
+image: /images/eduardo_dimitrov.jpg
+description: |
+  description of Eduardo
+category: professor
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: rounded
+  links:
+    - text: Lattes
+      icon: lattes
+      url: https://
+    - text: Orcid
+      icon: orcid
+      url: https://
+    - text: Google Scholar
+      icon: google-scholar
+      url: https://
+    - text: GitHub
+      icon: github
+      url: https://github.com/edudimitrov
+    - text: Email
+      icon: email
+      url: "mailto:eduardo@dimitrov.com.br"
+---
+
+### This content appears above the formatted about page content.
+
+:::{#hero-heading}
+
+Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending  time unicycling and playing with her pet iguana.
+
+## Education
+
+University of California, San Diego | San Diego, CA
+PhD in Mathematics | Sept 2011 - June 2015
+
+Macalester College | St. Paul MA
+B.A in Economics | Sept 2007 - June 2011
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Sept 2012 - April 2018
+
+:::
+{{< ai lattes >}} 
+{{< ai arxiv >}} 
+{{< ai google-scholar >}}
+
+### This content appears below the formatted about page content.

@@ -1,0 +1,10 @@
+---
+title: Publicações
+listing:
+  contents: publicacoes/
+  type: table
+  sort: title
+  categories: false
+  filter-ui: false
+  image-placeholder: /images/samico.png
+---
